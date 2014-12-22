@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Corpus Christi: by Edmund GurnayGurnay, Edmund, d. 1648.1619Approx. 92 KB of XML-encoded text transc
+
+1. ¶ To the very Worſhipfull, RICHARD STUBBE, Eſquire. *⁎*
+
 #####Body#####
-Corpus Christi: by Edmund GurnayGurnay, Edmund, d. 1648.1619Approx. 92 KB of XML-encoded text transc
+
+1. MATTH. 26.26.This is my body.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
